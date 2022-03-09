@@ -1,0 +1,72 @@
+html, body {
+    margin: 0;
+    padding: 0;
+    text-align: left;
+    color: white;
+    background-color: black;
+    font-family: Inter;
+    font-style: normal;
+}
+
+div {
+    margin: auto;
+    margin-top: 50px;
+    background-color: #1F2937;
+    width: 560px;
+    height: 500px;
+    border-radius: 25px;
+    /*display: flex;*/
+    align-items: center;
+    padding-left: 50px;
+}
+
+h1 {
+    padding-top: 50px;
+    font-family: Karla;
+    font-style: normal;
+    font-weight: 800px;
+    text-align: left;
+}
+
+h2{ 
+    color: #A78BFA;
+}
+
+p{
+    position: relative;
+    top: 15px;
+    height: 50px;
+    width: 250px;
+    background-color: #273549;
+    border-radius: 5px;
+    line-height: 50px;
+    text-align: center;
+    
+}
+
+#tempo {
+    position: relative;
+    left: 280px;
+    top: -100px;
+    
+}
+
+button {
+    height: 69px;
+    width: 300px;
+    font-size: 25px;
+    border-radius: 15px;
+    background-color: #8B5CF6;
+    color: white;
+}
+
+#chords {
+    position: relative;
+    top: -50px;
+}
+
+#feeling {
+    position: relative;
+    left: 280px;
+    top: -150px;
+}
